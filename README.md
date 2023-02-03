@@ -28,4 +28,4 @@ _What's a "big" phage? What's a "small" phage?_ I wanted a figure to discuss thi
 There are clearly some weird outliers, I made the interactive versions of the plots (download [here](data/htmls/)) to make it easier to explore them. Any further curation of this dataset is highly appreciated! If you find something is off, please write [issue](https://github.com/nataquinones/phage_genome_size/issues) or contribute with a [PR](https://github.com/nataquinones/phage_genome_size/pulls).
 
 If you use these figures or code, please cite it like:
-> Quinones-Olvera, N. Plotted bacteriophage genome sizes https://github.com/nataquinones/phage_genome_size/
+> Quinones-Olvera, N. Bacteriophage genome sizes https://github.com/nataquinones/phage_genome_size/
