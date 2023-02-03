@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Plotted bacteriophage genome sizes
+message: >-
+  If you use these figures, please cite it using the  
+  metadata from this file.
+type: software
+authors:
+  - given-names: Natalia
+    family-names: Quinones-Olvera
+    email: nquinones@g.harvard.edu
+    name-particle: Natalia
+    affiliation: 'Harvard Medical School, Boston, MA, USA'
+    orcid: 'https://orcid.org/0000-0002-4612-6819'
+repository-code: 'https://github.com/nataquinones/phage_genome_size/'
