@@ -16,16 +16,16 @@ _What's a "big" phage? What's a "small" phage?_ I wanted a figure to discuss thi
 - Original plot [here](data/other/2012_Hyman.png)
 - Download an interactive version of this plot [here](data/htmls/phage_sizes_selection.html)
 
-<img align='center' src='data/pngs/phage_sizes_selection.png' width="500">
+<img src='data/pngs/phage_sizes_selection.png' width="500">
 
 ### All families
 - Download an interactive version of this plot [here](data/htmls/phage_sizes_all.html)
 
-<img align='center' src='data/pngs/phage_sizes_all.png' width="1000">
+<img src='data/pngs/phage_sizes_all.png' width="1000">
 
 ## Contributions and usage
 
-There are clearly some weird outliers, I made the interactive versions of the plots (download [here](data/htmls/)) to make it easier to explore them, any further curation of this dataset is highly appreciated! If you find something is off, please write [issue](./issues) or contribute with a [PR](./pulls).
+There are clearly some weird outliers, I made the interactive versions of the plots (download [here](data/htmls/)) to make it easier to explore them. Any further curation of this dataset is highly appreciated! If you find something is off, please write [issue](https://github.com/nataquinones/phage_genome_size/issues) or contribute with a [PR](https://github.com/nataquinones/phage_genome_size/pulls).
 
-If you use this plot, please cite it like:
-> 
+If you use these figures or code, please cite it like:
+> Quinones-Olvera, N. Plotted bacteriophage genome sizes [Computer software]. https://github.com/nataquinones/phage_genome_size/
