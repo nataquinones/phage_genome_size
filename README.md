@@ -3,11 +3,12 @@
 ## Motivation
 _What even is a "big" phage? Or a "small" one?_ I wanted a figure to discuss this very question in a talk, but I couldn’t find a plot I actually liked. The closest thing was [this](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/41af/3820453/6e59e77cc92a/SCIENTIFICA2012-734023.002.jpg) figure from [Hyman and Abedon (2012)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3820453/), which is helpful, but over a decade old, the y-axis labels are mysteriously missing (?), and more importantly, there’s been a major [taxonomic overhaul](https://pmc.ncbi.nlm.nih.gov/articles/PMC9868039/) since then. So, I figured it was time for a much-needed update.
 
-<img src='data/pngs/2025.png' width="500">
+<img src='data/pngs/2025.png' width="1000">
 
 
 ## Notebooks
 > The jupyter notebook that generates the main plot can be found [here](2025.ipynb).
+
 > The previous version generating the updated 2012 plot can be found [here](2022.ipynb).
 
 ## Data
