@@ -1,0 +1,66 @@
+family	proportion_phage	total_n_family	included	note
+Rudiviridae	0.03	31	FALSE	Archaeal viruses
+Microviridae	0.10	7242	TRUE	Phage family, many uncultured, so no host specified, and no phage in name
+Bicaudaviridae	0.11	18	FALSE	Archaeal viruses
+Graaviviridae	0.20	5	FALSE	Archaeal viruses
+Hafunaviridae	0.31	52	FALSE	Archaeal viruses
+Matshushitaviridae	0.50	4	FALSE	Archaeal viruses
+Inoviridae	0.51	567	TRUE	Phage family
+Lavidaviridae	0.58	43	FALSE	Virophages are satellite-like virus of protists
+Schizomimiviridae	0.60	5	FALSE	Viruses of euks
+Fiersviridae	0.74	451	TRUE	Phage family
+Cystoviridae	0.76	67	TRUE	Phage family
+Steigviridae	0.90	40	TRUE	Phage family. Includes crAss phage.
+Chaseviridae	0.91	98	TRUE	
+Plectroviridae	0.91	11	TRUE	
+Autographiviridae	0.92	2204	TRUE	
+Intestiviridae	0.92	50	TRUE	
+Tectiviridae	0.96	108	TRUE	
+Peduoviridae	0.96	371	TRUE	
+Mesyanzhinovviridae	0.97	87	TRUE	
+Zobellviridae	0.97	70	TRUE	
+Blumeviridae	0.97	35	TRUE	
+Schitoviridae	0.98	337	TRUE	
+Zierdtviridae	0.98	86	TRUE	
+Demerecviridae	0.98	476	TRUE	
+Straboviridae	0.98	1118	TRUE	
+Casjensviridae	0.98	214	TRUE	
+Drexlerviridae	0.99	592	TRUE	
+Herelleviridae	0.99	666	TRUE	
+Kyanoviridae	0.99	424	TRUE	
+Ackermannviridae	1.00	268	TRUE	
+Saffermanviridae	1.00	12	TRUE	
+Salasmaviridae	1.00	95	TRUE	
+Atkinsviridae	1.00	91	TRUE	
+Assiduviridae	1.00	7	TRUE	
+Solspiviridae	1.00	31	TRUE	
+Stanwilliamsviridae	1.00	106	TRUE	
+Autolykiviridae	1.00	5	TRUE	
+Arenbergviridae	1.00	9	TRUE	
+Aliceevansviridae	1.00	325	TRUE	
+Suoliviridae	1.00	72	TRUE	
+Aggregaviridae	1.00	2	TRUE	
+Vertoviridae	1.00	8	TRUE	
+Vilmaviridae	1.00	129	TRUE	
+Winoviridae	1.00	15	TRUE	
+Steitzviridae	1.00	413	TRUE	
+Rountreeviridae	1.00	148	TRUE	
+Guelinviridae	1.00	36	TRUE	
+Corticoviridae	1.00	18	TRUE	
+Grimontviridae	1.00	26	TRUE	
+Kleczkowskaviridae	1.00	4	TRUE	
+Fredfastierviridae	1.00	14	TRUE	
+Forsetiviridae	1.00	17	TRUE	
+Leisingerviridae	1.00	4	TRUE	
+Finnlakeviridae	1.00	2	TRUE	
+Duneviridae	1.00	23	TRUE	
+Duinviridae	1.00	7	TRUE	
+Molycolviridae	1.00	8	TRUE	
+Naomviridae	1.00	3	TRUE	
+Orlajensenviridae	1.00	110	TRUE	
+Pachyviridae	1.00	10	TRUE	
+Paulinoviridae	1.00	7	TRUE	
+Crevaviridae	1.00	8	TRUE	
+Pervagoviridae	1.00	7	TRUE	
+Helgolandviridae	1.00	2	TRUE	
+Pootjesviridae	1.00	21	TRUE	
